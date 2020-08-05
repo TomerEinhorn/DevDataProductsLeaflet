@@ -9,6 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE)
 ```
 
+
 The following map contains pin points of the 10 most populated capital cities in the European Union.
 Those cities are:
 Berlin (Germany), Madrid (Spain), Rome (Italy), Paris (France), Bucharest (Romania), Vienna (Austria), Warsaw (Poland), Budapest (Hungary), Prague (Czech Republic), Sofia (Bulgaria).
